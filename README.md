@@ -1,0 +1,2 @@
+# Inventory
+Manage simple inventory
